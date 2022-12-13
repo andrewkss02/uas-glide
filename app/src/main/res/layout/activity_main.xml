@@ -14,7 +14,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/web" />
+        app:srcCompat="@drawable/Chiken" />
 
     <Button
         android:id="@+id/btnchange"
@@ -34,7 +34,7 @@
         android:layout_marginBottom="88dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="link-gambar"
+        android:text="link"
         app:layout_constraintBottom_toTopOf="@+id/btnchange"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
